@@ -9,6 +9,14 @@
 - 🇰🇷 Korean Adoptee
 - 📚 Obsessive Reader
 - 📜 B.A. Human Physiology, Biology Minor
+  
+<figure>
+<img align="center" src="https://github.com/janetscanlon/janetscanlon/assets/156254619/db24157d-8011-4cdf-a368-8f8f12bb1501" alt="Trademark Theater Fox Sister 2024" width="750"/>
+  <p>
+    <figcaption>"In The Works Showcase" Trademark Theater, Laura Sukowatey, Minneapolis 2024</figcaption>
+  </p>
+</figure>
+
 
 ---
 
