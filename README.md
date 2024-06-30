@@ -43,9 +43,10 @@
 
 <h4 align="left">Let's connect!</h4>
 <p align="left">
+<a href="mailto:janet.lscanlon@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="" height="20" width="30" /></a>
 <a href="https://www.linkedin.com/in/janet-scanlon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="30" /></a>
 <a href="https://www.instagram.com/_jxnnie4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="20" width="30" /></a>
-<a href="janet.lscanlon@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="" height="20" width="30" /></a>
+
 </p>
 
 
