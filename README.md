@@ -4,39 +4,39 @@
 ---
 
 ### About Me🚀:
--👩🏻‍💻 Full Stack Developer 
--🎭 Actor
--🇰🇷 Korean Adoptee
--📚 Obsessive Reader
--📜 B.A. Human Physiology, Biology Minor 
+- 👩🏻‍💻 Full Stack Developer 
+- 🎭 Actor
+- 🇰🇷 Korean Adoptee
+- 📚 Obsessive Reader
+- 📜 B.A. Human Physiology, Biology Minor
+
+---
+
+### Tech Stack⛏️: ###
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/postgreSQL-black?style=flat&logo=postgreSQL)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![express.js](https://img.shields.io/badge/express.js-black?style=flat&logo=express)
+![PostgreSQL](https://img.shields.io/badge/postgreSQL-black?style=flat&logo=postgreSQL)
+![C#](https://img.shields.io/badge/C%23-black?style=flat&logo=C%23)
+![Material UI](https://img.shields.io/badge/Material%20UI-black?style=flat&logo=mui)
+![twilio](https://img.shields.io/badge/Twilio-black?style=flat&logo=twilio)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io)
+![Heroku](https://img.shields.io/badge/heroku-black?style=flat&logo=heroku)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 
-
-### ⛏️Tech Stack ###
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/postgresql.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/github.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
-
-</div>
-![Static Badge](https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=Instagram&logoColor=%23E4405F)
-
-
-
-<h3 align="left">Let's connect!</h3>
+<h4 align="left">Let's connect!</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/janet-scanlon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_jxnnie4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/janet-scanlon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="30" /></a>
+<a href="https://www.instagram.com/_jxnnie4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="20" width="30" /></a>
 </p>
 
 
