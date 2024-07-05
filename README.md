@@ -26,7 +26,6 @@
 ![Redux](https://img.shields.io/badge/postgreSQL-black?style=flat&logo=postgreSQL)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![express.js](https://img.shields.io/badge/express.js-black?style=flat&logo=express)
-![PostgreSQL](https://img.shields.io/badge/postgreSQL-black?style=flat&logo=postgreSQL)
 ![C#](https://img.shields.io/badge/C%23-black?style=flat&logo=C%23)
 ![Material UI](https://img.shields.io/badge/Material%20UI-black?style=flat&logo=mui)
 ![twilio](https://img.shields.io/badge/Twilio-black?style=flat&logo=twilio)
