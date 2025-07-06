@@ -21,6 +21,7 @@
 ---
 
 ### Tech Stack⛏️: ###
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/postgreSQL-black?style=flat&logo=postgreSQL)
@@ -51,11 +52,7 @@ https://famlicare-0348fad2c799.herokuapp.com/#/login
 
 ### Currently Working On⛏️ ###
 
-[Gen AI App For Actors](https://github.com/janetscanlon/hello-world) <br>
-
-but currently it just shows 10 AI generated fun facts about animals ^.^ 
-
-View [here](https://hello-world-2iobkfvfxa-uc.a.run.app/?animal=falmingo)🤭
+[AI Chatbot integrated into your Business UI](https://github.com/janetscanlon/ai-chatbot-starter)
 
 <h3 align="left">Let's connect!</h3>
 <p align="left">
