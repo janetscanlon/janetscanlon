@@ -4,7 +4,7 @@
 ---
 
 ### About Me🚀:
-- 👩🏻‍💻 Full Stack Developer 
+- 👩🏻‍💻 Full Stack Developer/Consultant at [Compoze Labs](https://www.compozelabs.com/) 
 - 🎭 Actor
 - 🇰🇷 Korean Adoptee
 - 📚 Obsessive Reader
